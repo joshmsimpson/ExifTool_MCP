@@ -1,6 +1,6 @@
 # MCP ExifTool Server
 
-mcp-name: io.github.modelcontextprotocol/exiftool
+mcp-name: io.github.joshmsimpson/exiftool
 
 An MCP (Model Context Protocol) server that provides access to ExifTool for reading, writing, and removing metadata from a wide range of file types.
 
