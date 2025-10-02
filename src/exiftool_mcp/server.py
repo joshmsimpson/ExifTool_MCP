@@ -13,10 +13,10 @@ from mcp.types import Tool, TextContent
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("mcp-server-exiftool")
+logger = logging.getLogger("exiftool-mcp")
 
 # Initialize MCP server
-app = Server("mcp-server-exiftool")
+app = Server("exiftool-mcp")
 
 
 def check_exiftool_installed() -> bool:
