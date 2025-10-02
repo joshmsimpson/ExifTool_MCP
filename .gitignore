@@ -77,3 +77,6 @@ dmypy.json
 
 # ExifTool backups (created during testing)
 *_original
+
+# mcp tokens
+*_token
